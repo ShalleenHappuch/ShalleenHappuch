@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ShalleenHappuch
+- 👋 Hi, I’m Shalleen
 - 👀 I’m interested in exponential technologies
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on groundbreaking ideas
-- 📫 How to reach me ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
 
 <!---
 ShalleenHappuch/ShalleenHappuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
