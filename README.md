@@ -2,6 +2,7 @@
 - 👀 I’m interested in exponential technologies
 - 💞️ I’m looking to collaborate on groundbreaking ideas
 - 😄 Pronouns: She/Her
+- - ⚡ Fun fact: I'm a Polyhistor
 
 <!---
 ShalleenHappuch/ShalleenHappuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
